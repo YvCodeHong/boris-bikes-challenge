@@ -24,4 +24,4 @@ To be updated as development progresses
 
 ## Credits
 
-Created by Elishka Flint and Daniel Lau
+Created by Elishka Flint & Daniel Lau
