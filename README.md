@@ -21,7 +21,3 @@ Rspec
 ## How to use?
 
 To be updated as development progresses
-
-## Credits
-
-Created by Elishka Flint & Daniel Lau
